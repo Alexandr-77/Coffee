@@ -1,0 +1,61 @@
+.title-h2 {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 130%;
+  color: #ffffff;
+  margin-bottom: 35px;
+}
+
+.best-h3 {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  color: #ffffff;
+}
+.best-h3 span {
+  color: #C99E71;
+}
+
+.title-h4 {
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #C99E71;
+  margin-bottom: 12px;
+}
+
+.title-p {
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-transform: capitalize;
+  color: #CECECE;
+}
+
+.knopka {
+  display: inline-block;
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 122.2222222222%;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #C99E71;
+  padding: 20px 35px;
+  margin-top: 55px;
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.knopka:hover {
+  background: #ab7b49;
+  color: #ffffff;
+}
