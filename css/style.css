@@ -900,6 +900,11 @@ a:hover {
   line-height: 180%;
   text-transform: capitalize;
   border: none;
+  color: #ffffff;
+  padding: 0 15px 0 0;
+}
+.footer-form input:focus {
+  outline: none;
 }
 .footer-form button {
   background: #C99E71;
